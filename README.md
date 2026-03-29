@@ -1,4 +1,4 @@
-# Hotel Website – Internship Project
+# Hotel Website
 
 ## Overview
 This project is a responsive hotel website developed during my internship as part of a real-world training experience in web development.
